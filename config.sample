@@ -1,0 +1,9 @@
+--- 
+- - weatherbotsf@gmail.com                                    // jabber account
+  - password
+  - http://xml.weather.yahoo.com/forecastrss?p=USCA0987&u=f   // weather source
+  - - - 15
+      - 0
+    - - 23
+      - 45
+  - wxsf                                                      // twitter handle
